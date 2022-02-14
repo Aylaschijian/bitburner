@@ -92,7 +92,7 @@ Source-File
 
     * Level 1: 8%
     * Level 2: 12%
-    * Level 3: 14%
+    * Level 3: 14%, additionally Warehouse and Office API are free forever
 
 Difficulty
     Somewhat-steep learning curve as you learn how to use and manage Corporations. Afterwards,
